@@ -1,0 +1,50 @@
+<html>
+<body>
+
+<table max-width="100%"  border="0">
+<tr>
+<td colspan="3" style="background-color:#99bbbb;">
+<h1>共享单车分类</h1>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background-color:#ffff99;width:225px;text-align:top;">
+<b>&nbsp&nbsp&nbsp&nbsp单车颜色</b>
+<br />
+<br />
+<li>黄色单车</li>
+<li>橙灰色单车</li>
+<li>蓝白色单车</li>
+<li>白色电助力车</li></td>
+<td style="background-color:#EEEEEE;height:200px;widows: 235px;width:225px;text-align:top;">
+<b>&nbsp&nbsp&nbsp&nbsp单车名称</b> 
+<ul><font size="3">
+    <li>ofo小黄车</li>
+    <li>摩拜单车</li>
+    <li>哈罗单车</li>
+    <li>自由GO单车</li>
+</font>  
+</ul>
+</td>
+<td style="background-color:rgb(191, 209, 30);width:225px;text-align:top;">
+<b>&nbsp&nbsp&nbsp&nbsp&nbsp押金信息</b>
+<ul><font size="2">
+    <li>99元押金</li>
+    <li>299元押金</li>
+    <li>免押金</li>
+    <li>299元押金</li>
+</font>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" style="background-color:#99bbbb;text-align:center;">
+ Share-Bikes Information</td>
+</tr>
+</table>
+
+</body>
+</html>
+
